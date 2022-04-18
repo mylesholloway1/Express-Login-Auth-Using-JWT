@@ -1,3 +1,4 @@
 {
-    "mongodb":"mongodb+srv://S-Devconnector:XaxrBLGg0PryK3zs@devconnector.1p5ut.mongodb.net/TestDB?retryWrites=true&w=majority"
+    "mongodb":"mongodb+srv://S-Devconnector:XaxrBLGg0PryK3zs@devconnector.1p5ut.mongodb.net/TestDB?retryWrites=true&w=majority",
+    "jwtSecret":"teleport weak task port hash four taken words hollow"
 }
