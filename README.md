@@ -11,6 +11,16 @@
 ## Postman 
 - Make sure you have [Postman](https://www.postman.com/downloads/) installed.
 
+## Default.Json
+- The applicaiton looks for a ```./config/default.json``` file to get the db connection string and the jwt secret
+- create default.json:
+```json
+{
+  "mongodb": "[CONNECTION STRING]",
+  "jwtSecret": "[SECRET]"
+}
+```
+
 # Postman collections
 - (optional) I created a folder called 'Users & Auth' to place my calls in.
   - Register User
