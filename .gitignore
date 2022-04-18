@@ -104,4 +104,4 @@ dist
 .tern-port
 
 #default config
-config/default.js
+config/default.json
